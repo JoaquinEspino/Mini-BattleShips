@@ -1,0 +1,2 @@
+Run the GameServer.java.
+Run two instances of the GameStarter.java to instantiate players 1 & 2.
